@@ -1,0 +1,6 @@
+{
+  "name": "Brain Buzz",
+  "description": "Puzzles That Sting Your Mind - a mobile-first hand-drawn casual brain teaser puzzle game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
